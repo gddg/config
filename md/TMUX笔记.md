@@ -23,12 +23,11 @@ tmux new-session -d 'emerge -uDNvp @world'
 
 
 # `Ctrl`-`b` - `：` 进入后命令行#
--------
 
 new -s 回话名 
 
 # `Ctrl`-`b`  (相当vi－esc)进入#
--------
+
 `s`       切换回话
 `d`       分离－退出
 `` ` ``   重命名
